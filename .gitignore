@@ -5,3 +5,22 @@ out/
 *.log
 .env*
 site.tgz
+.board-update.tgz
+.board-v3.tgz
+Claude outputs/
+.board-v4.tgz
+.board-v5.tgz
+.board-v6.tgz
+.board-v7.tgz
+.board-v8.tgz
+.board-v9.tgz
+.board-v10.tgz
+.board-v11.tgz
+.board-v12.tgz
+.board-v13.tgz
+.board-v14.tgz
+.board-v15.tgz
+.board-v16.tgz
+.board-v20.tgz
+.board-v21.tgz
+.board-v22.tgz
